@@ -58,5 +58,5 @@ class Instagram:
             button_unfollow.click()
 
 
-fire = Instagram('_rogerio.junior', 'rogerio0089')
+fire = Instagram('', '')
 fire.login()
