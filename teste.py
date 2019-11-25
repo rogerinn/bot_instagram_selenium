@@ -101,5 +101,5 @@ class Instagram:
         self.seguir_like()
 
 
-fire = Instagram('_rogerio.junior', 'rogerio0089')
+fire = Instagram('', '')
 fire.login()
